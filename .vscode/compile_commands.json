@@ -1,0 +1,46 @@
+[
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/controls.cpp.o", "common/controls.cpp"],
+  "file": "common/controls.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/objloader.cpp.o", "common/objloader.cpp"],
+  "file": "common/objloader.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/quaternion_utils.cpp.o", "common/quaternion_utils.cpp"],
+  "file": "common/quaternion_utils.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/shader.cpp.o", "common/shader.cpp"],
+  "file": "common/shader.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/tangentspace.cpp.o", "common/tangentspace.cpp"],
+  "file": "common/tangentspace.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/text2D.cpp.o", "common/text2D.cpp"],
+  "file": "common/text2D.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/texture.cpp.o", "common/texture.cpp"],
+  "file": "common/texture.cpp"
+},
+{
+  "directory": "/home/lmz/項目/bloom",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-m64", "-g", "-O0", "-std=c++20", "-I/home/lmz/項目/bloom", "-isystem", "/opt/cuda/include", "-o", "build/.objs/bloom/linux/x86_64/debug/common/vboindexer.cpp.o", "common/vboindexer.cpp"],
+  "file": "common/vboindexer.cpp"
+}]
